@@ -94,8 +94,10 @@ This produces smoother, more energy-efficient navigation than simple ON-OFF cont
 ## 🎥 Images
 ### Main  Structure
 <img src="Assets/Skeleton.jpg" width="800" alt="System Architecture" />
+
 ### Individuals
 <img src="Assets/Single.jpg" width="800" alt="Single" />
+
 ### Team Members
 **Ahsan Habib**  
 **Nigar Sultana**  
