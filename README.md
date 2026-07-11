@@ -83,7 +83,7 @@ This produces smoother, more energy-efficient navigation than simple ON-OFF cont
 ---
 
 ## 🧩 Flow Chart
-<img src="Assets/flow_chart.png" width="800" alt="Flow Chart" />
+![LFR pipeline animation](Assets/line_follower_workflow_animation.svg)
 
 ---
 
